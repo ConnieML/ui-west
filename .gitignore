@@ -20,6 +20,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-appConfig.js
+# appConfig.js
 yarn.lock
 package-lock.json
