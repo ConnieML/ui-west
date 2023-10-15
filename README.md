@@ -22,3 +22,4 @@ cp public/assets/appConfig.sample.js public/assets/appConfig.js
 ```
 npm start
 ```
+# westside-ui
