@@ -1,5 +1,5 @@
 // set your account sid here
-var accountSid = "AC...";
+var accountSid = AC224555fa425d29fe3b0405b4721372fc;
 
 
 var appConfig = {
