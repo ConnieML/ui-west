@@ -1,3 +1,7 @@
+# Current Status
+
+This repository has been archived due to no longer having relevant use in the current state of Connie.
+
 # Twilio Flex UI Sample
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
